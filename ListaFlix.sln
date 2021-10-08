@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31727.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ListaFlix", "ListaFlix.csproj", "{9CAC5D62-FE68-4652-8A07-0DD8FEB37A80}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9CAC5D62-FE68-4652-8A07-0DD8FEB37A80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CAC5D62-FE68-4652-8A07-0DD8FEB37A80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CAC5D62-FE68-4652-8A07-0DD8FEB37A80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CAC5D62-FE68-4652-8A07-0DD8FEB37A80}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D7285156-198E-4877-B4DE-AE0493965074}
+	EndGlobalSection
+EndGlobal
